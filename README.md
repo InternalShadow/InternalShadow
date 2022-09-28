@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael, thanks for stopping by! :grin:</h1>
-<h3 align="center">I'm passionate frontend developer dedicated to learning/mastering new technologies</h3>
+<h3 align="center">I'm a passionate frontend engineer dedicated to learning/mastering new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=internalshadow&label=Profile%20views&color=0e75b6&style=flat" alt="internalshadow" /> </p>
 
