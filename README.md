@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=internalshadow&label=Profile%20views&color=0e75b6&style=flat" alt="internalshadow" /> </p>
 
-- 🔭 I’m currently working on [Lumos](https://www.lumos.tools/)
-
-- :man_student: I’m currently learning **Three.JS, Python 🐍**
-
 - 📝 Written Work [https://medium.com/@michaelnegronaudio/lumos-aws-lambda-metrics-visualizer-276acaa7d31d](https://medium.com/@michaelnegronaudio/lumos-aws-lambda-metrics-visualizer-276acaa7d31d)
 
 - 📭 Reach me here **michaelnegronaudio@gmail.com 📬**
